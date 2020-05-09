@@ -1,0 +1,16 @@
+{
+  "name": "travian-attacks",
+  "version": "1.0.0",
+  "description": "auto attack bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "80.*",
+    "dotenv": "^8.2.0",
+    "selenium-webdriver": "^4.0.0-alpha.7"
+  }
+}
