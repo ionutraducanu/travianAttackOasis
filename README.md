@@ -20,6 +20,7 @@ TRAVIAN_RAID_BUTTON=Raid unoccupied oasis // because of no ID to match the butto
 ```
 
 # Installation
+Duplicate .env.example to .env file and replace with your data and then:
 ```bash
 npm install
 ```
